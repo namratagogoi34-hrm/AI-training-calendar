@@ -7,7 +7,7 @@ Power BI dashboard tracking Bharat Nanochips Systems' AI training rollout (July 
 
 This Power BI dashboard tracks the AI training rollout plan for new and existing recruits at Bharat Nanochips Systems for July 2026. It consolidates training needs, costs, methods, and timelines into a single interactive view.
 
-<u>Tools & process</u>:
+<u><b>Tools & process</b></u>:
 Built end-to-end in Power BI Desktop. Used Power Query to clean and shape the raw training data — removing duplicates, standardizing column headers, fixing inconsistent date formats, and splitting/merging fields (e.g., combining owner names for shared responsibilities). Applied custom formatting across visuals, including conditional formatting on tables, currency formatting (₹) on cost fields, custom color themes matching brand identity, and card visuals for at-a-glance KPIs.
 
 <u>Key components</u>:
